@@ -3,7 +3,7 @@
 You would like to know the concert near your town ? But only concert of your artist ? Or from the french web radio [FIP](https://www.radiofrance.fr/fip) ?
 This programm look for concert near of your town in the website [InfoConcert](https://www.infoconcert.com/), and filter them by your artists in your musique folder or from artists from the webradio [FIP](https://www.radiofrance.fr/fip).
 
-## Instalation
+## Installation
 ```
 pip install -r requirements.txt
 ```
